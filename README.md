@@ -1,6 +1,6 @@
 NO 1 : A
-JGGF
-FGF
+NO 2 : B
+NO 3 :C
 FGFD
 FGH
 
